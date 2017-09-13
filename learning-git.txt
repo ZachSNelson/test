@@ -1,0 +1,15 @@
+A couple commands you need to know.
+
+git clone [URL from Github]
+
+git add .
+
+git commit
+
+git commit -m "Type message here"
+
+git push
+
+
+
+
